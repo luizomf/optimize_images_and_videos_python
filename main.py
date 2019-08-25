@@ -252,7 +252,7 @@ def readable_size(size_in_bytes):
 if __name__ == '__main__':
     # This is the main folder containing video or image files
     # This script will search any folder and subfolder inside the main folder
-    main_folder_path = '/home/luizotavio/Desktop/100CANON/'
+    main_folder_path = '/home/user/Desktop/100CANON/'
 
     delete_original_files = True  # Set to True will delete the original files
     new_image_width = 0  # if you don't want to resize, use 0
